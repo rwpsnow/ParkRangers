@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_national_p_1",
+  "scopeId": "eb2130522fb5ba1ce06c453bcfa4e3c5",
+  "name": "National P 1",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
