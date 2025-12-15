@@ -5,6 +5,18 @@ declare global {
         namespace Internal {
             interface Keys extends KeysRegistry {
                 explicit: {
+                    '0984bc562ff5ba1ce06c453bcfa4e365': {
+                        table: 'sys_scope_privilege'
+                        id: '0984bc562ff5ba1ce06c453bcfa4e365'
+                    }
+                    '4984bc562ff5ba1ce06c453bcfa4e30a': {
+                        table: 'sys_scope_privilege'
+                        id: '4984bc562ff5ba1ce06c453bcfa4e30a'
+                    }
+                    '8d84bc562ff5ba1ce06c453bcfa4e311': {
+                        table: 'sys_scope_privilege'
+                        id: '8d84bc562ff5ba1ce06c453bcfa4e311'
+                    }
                     acl_assignment_create: {
                         table: 'sys_security_acl'
                         id: '2b2db67833fd4e9ebc47693a41eea016'
